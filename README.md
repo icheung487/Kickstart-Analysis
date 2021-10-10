@@ -33,4 +33,6 @@ The data set didn't provide a little more information as to why the campaigns fa
 #### Question 4: Other possible tables/graphs that we can create
 * Insert Combo chart, showing outcomes and goals in the line chart 
 * Stacked bar chart for theater outcomes
+![Outcomes_Vs_Goals_stacked_bar](images/Outcomes_vs_Goals_Stacked_Bar_Chart.png)
+
     
