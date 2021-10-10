@@ -1,16 +1,17 @@
 # An Analysis of Kickstarter Campaigns
 Module 1: Performing analysis on Kickstarter data to uncover trends
-##Overview of Project: Explaining the purpose of this analysis 
-We noticed that *Fever* came close to its fundraising goal, so we wanted to analysis the results in comparison to other campaigns within the same category. The purpose of the analysis is to see there was a trend of within the Theatre category based on funding goals and campaign results. The analysis report would help provide next steps of what actions to take or possibly changes to make for the next campaigns.
-Markup:-----
-##Analysis and Challenges: Explaining the steps taken to achieve the results: 
+## Overview of Project: 
+We noticed that *Fever* came close to its fundraising goal, so we wanted to analyze the results in comparison to other campaigns within the same category. The purpose is to see if there was a trend of within the Theatre category based on funding goals and campaign results. The analysis report would help provide next steps of what actions to take or possibly changes to make for the next campaigns.
+
+## Analysis and Challenges: Explaining the steps taken to achieve the results: 
 ### Steps for Challenge 1: Theater Outcomes by Launch Date 
 * First, we had to remove any "live" campaigns from the data since those are still on going and results have not been finalized. Next, I created a pivot table to see over all trends based on outcomes. 
-* In order to create the pivot table, I had to drag the following in the proper field:
-    *Parent Category and Years in filters
-    *Outcomes in columns and values section
-    -Date Created Conversion was in *Rows* and remove months and quarters
-*When looking at the pivot table, it was difficult to analyze or draw any insights from the chart.  You will see in the [pivot table](https://drive.google.com/drive/folders/1eSgV00O8FJ03HGqcbXv0cmouGCaOzCbP?usp=sharing) it just shows total count of campaigns by outcomes, nothing really jumps out when looking at this chart.  However, when creating a line chart below, you can see how visually the trends base on outcomes.  By visualizing the data, you can also see any outliers or issues with the data. 
+* In order to create the pivot table, I had to drag the following in the proper fields:
+    * Parent Category and Years in filters
+    * Outcomes in the column and value fields
+    * Date Created Conversion  in the row field, removing months and quarters so only years show.
+    
+When looking at the pivot table, it was difficult to analyze or draw any insights from the chart.  You will see in the [pivot table](https://drive.google.com/drive/folders/1eSgV00O8FJ03HGqcbXv0cmouGCaOzCbP?usp=sharing) it just shows total count of campaigns by outcomes, nothing really jumps out when looking at this chart.  However, when creating a line chart below, you can see how visually the trends base on outcomes.  By visualizing the data, you can also see any outliers or issues with the data. 
 ![](Outcomes_vs_Goals.png)
 *Overall, there wasn't any big challenges when creating the pivot table.  However, when trying to draw any insights just from the pivot table was a challenge.  I wasn't able to create a story or provide any feedback without looking taking the next step of creating the table. 
 
