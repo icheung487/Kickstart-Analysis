@@ -7,6 +7,6 @@ We noticed that *Fever* came close to its fundraising goal, so we wanted to anal
 * Samples test 
 - Bullet test 
 
-![](images/
+![image](images/Outcomes_vs_Goals.png)
 
 ## Results to Questions: 
