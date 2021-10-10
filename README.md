@@ -24,8 +24,8 @@ After calculating the total number of outcomes by goals, it was easy to calculat
 
 ## Results to Questions: 
 #### Question 1: Two conculsions from Theater Outcomes by Launch date: 
-        A. The most successful Theatre campaign was in May. 
-        B. There was decline after May in which show possibly the goal was set too high.  After pulling the goals into the pivot table, you can see that the goal was growing as the number of successful campaigns were declining. 
+        - The most successful Theatre campaign was in May. 
+        - There was a decline after May, which shows possibly the goal was set too high.  After pulling the goals into the pivot table, you can see that the goal was growing as the number of successful campaigns were declining. 
 #### Question 2: Conculsion for Outcomes based on goals? 
 The most successful campaigns were when the goals were set at below $1,000.  Anything higher than $1K, the campaigns started to decline.  As the goals got hight the percentage of failed campaigns also got higher. 
 #### Question 3: Limitations of this dataset
